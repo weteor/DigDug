@@ -1,4 +1,4 @@
-# Brk Out
+# DigDug
 
 45 keys orthogonal keyboard with 'exploded' key groups
 
